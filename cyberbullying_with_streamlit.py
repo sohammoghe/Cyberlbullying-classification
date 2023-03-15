@@ -1,6 +1,6 @@
 # Imports
 import pickle
-import streamlit
+import streamlit as st
 import sklearn
 
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer, TfidfTransformer
